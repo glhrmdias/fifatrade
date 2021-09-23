@@ -1,0 +1,82 @@
+regras de negócio
+
+Carta 'nova':
+
+[over de 75 á 79:]
+valor compra = media mercado;
+valor venda = valor compra + 15%;
+
+= exemplo:
+= Carta X, Over 78;
+= média mercado = 3.000;
+= valor da venda = 3.000 + 15%, = 3.450
+= lucro = 450
+
+[over de 80 á 85:]
+valor compra = media mercado;
+valor venda = valor compra + 25%;
+
+= exemplo:
+= Carta X, Over 84;
+= média mercado = 15.000;
+= valor da venda = 15.000 + 25%, = 18.750
+= lucro = 3.750
+
+[over de 86 á 90:]
+valor compra = media mercado;
+valor venda = valor compra + 37%;
+
+= exemplo:
+= Carta X, Over 89;
+= média mercado = 40.000;
+= valor da venda = 40.000 + 37%, = 54.800
+= lucro = 14.800
+
+[over de 91+:]
+valor compra = media mercado;
+valor venda = valor compra + 45%;
+
+= exemplo:
+= Carta X, Over 93;
+= média mercado = 90.000;
+= valor da venda = 90.000 + 45%, = 130.500
+= lucro = 40.500
+
+------------------------------------------------
+Carta 'usada':
+
+[over de 75 á 79:]
+valor venda = valor compra + 20%;
+
+= exemplo:
+= Carta X, Over 78;
+= valor compra = 3.000;
+= valor da venda = 3.000 + 20%, = 3.600
+= lucro = 600
+
+[over de 80 á 85:]
+valor venda = valor compra + 30%;
+
+= exemplo:
+= Carta X, Over 84;
+= valor compra = 15.000;
+= valor da venda = 15.000 + 30%, = 19.500
+= lucro = 4.500
+
+[over de 86 á 90:]
+valor venda = valor compra + 42%;
+
+= exemplo:
+= Carta X, Over 89;
+= valor compra = 40.000;
+= valor da venda = 40.000 + 42%, = 56.800
+= lucro = 16.800
+
+[over de 91+:]
+valor venda = valor compra + 50%;
+
+= exemplo:
+= Carta X, Over 93;
+= valor compra = 90.000;
+= valor da venda = 90.000 + 50%, = 135.000
+= lucro = 45.000
